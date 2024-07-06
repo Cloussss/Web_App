@@ -1,0 +1,880 @@
+2024-07-05 09:24:03.920808 - Sensor malfunction detected and fixed.
+2024-07-05 09:25:32.153161 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:03.037690 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:05.381868 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:05.909907 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:06.176928 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:06.365940 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:07.021990 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:07.187002 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:10.584260 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:12.809427 - Sensor malfunction detected and fixed.
+2024-07-05 09:30:14.042521 - Sensor malfunction detected and fixed.
+2024-07-06 08:17:35.851096 - Sensor malfunction detected!
+2024-07-06 08:17:36.856169 - Sensor malfunction detected!
+2024-07-06 08:17:41.850533 - Sensor malfunction detected!
+2024-07-06 08:17:42.846605 - Sensor malfunction detected!
+2024-07-06 08:17:43.849679 - Sensor malfunction detected!
+2024-07-06 08:17:44.850752 - Sensor malfunction detected!
+2024-07-06 08:17:46.845898 - Sensor malfunction detected!
+2024-07-06 08:17:48.173995 - Sensor malfunction detected!
+2024-07-06 08:17:51.172212 - Sensor malfunction detected!
+2024-07-06 08:17:52.180287 - Sensor malfunction detected!
+2024-07-06 08:17:55.173505 - Sensor malfunction detected!
+2024-07-06 08:17:56.180581 - Sensor malfunction detected!
+2024-07-06 08:17:58.177723 - Sensor malfunction detected!
+2024-07-06 08:18:03.169088 - Sensor malfunction detected!
+2024-07-06 08:18:05.179241 - Sensor malfunction detected!
+2024-07-06 08:18:14.171891 - Sensor malfunction detected!
+2024-07-06 08:18:15.174963 - Sensor malfunction detected!
+2024-07-06 08:18:16.180037 - Sensor malfunction detected!
+2024-07-06 08:18:18.177183 - Sensor malfunction detected!
+2024-07-06 08:18:19.180256 - Sensor malfunction detected!
+2024-07-06 08:18:20.165333 - Sensor malfunction detected!
+2024-07-06 08:18:21.173401 - Sensor malfunction detected!
+2024-07-06 08:18:24.195623 - Sensor malfunction detected!
+2024-07-06 08:18:27.170837 - Sensor malfunction detected!
+2024-07-06 08:18:28.173912 - Sensor malfunction detected!
+2024-07-06 08:18:32.179203 - Sensor malfunction detected!
+2024-07-06 08:18:33.170275 - Sensor malfunction detected!
+2024-07-06 08:18:36.173004 - Sensor malfunction detected!
+2024-07-06 08:18:37.172079 - Sensor malfunction detected!
+2024-07-06 08:18:39.170223 - Sensor malfunction detected!
+2024-07-06 08:18:44.173588 - Sensor malfunction detected!
+2024-07-06 08:18:45.180661 - Sensor malfunction detected!
+2024-07-06 08:18:48.171880 - Sensor malfunction detected!
+2024-07-06 08:18:51.178098 - Sensor malfunction detected!
+2024-07-06 08:18:52.173170 - Sensor malfunction detected!
+2024-07-06 08:18:54.170316 - Sensor malfunction detected!
+2024-07-06 08:18:55.176390 - Sensor malfunction detected!
+2024-07-06 08:18:57.249541 - Sensor malfunction detected!
+2024-07-06 08:18:58.171608 - Sensor malfunction detected!
+2024-07-06 08:18:59.175682 - Sensor malfunction detected!
+2024-07-06 08:19:29.165868 - Sensor malfunction detected!
+2024-07-06 08:20:22.854783 - Sensor malfunction detected!
+2024-07-06 08:20:26.551053 - Sensor malfunction detected!
+2024-07-06 08:20:27.548126 - Sensor malfunction detected!
+2024-07-06 08:20:32.552491 - Sensor malfunction detected!
+2024-07-06 08:20:33.559564 - Sensor malfunction detected!
+2024-07-06 08:20:35.550709 - Sensor malfunction detected!
+2024-07-06 08:20:36.557784 - Sensor malfunction detected!
+2024-07-06 08:20:37.560855 - Sensor malfunction detected!
+2024-07-06 08:20:39.560000 - Sensor malfunction detected!
+2024-07-06 08:20:40.564075 - Sensor malfunction detected!
+2024-07-06 08:20:41.554147 - Sensor malfunction detected!
+2024-07-06 08:20:42.557220 - Sensor malfunction detected!
+2024-07-06 08:20:45.560438 - Sensor malfunction detected!
+2024-07-06 08:20:51.172848 - Sensor malfunction detected!
+2024-07-06 08:20:54.173068 - Sensor malfunction detected!
+2024-07-06 08:20:55.178142 - Sensor malfunction detected!
+2024-07-06 08:20:57.173287 - Sensor malfunction detected!
+2024-07-06 08:20:58.204362 - Sensor malfunction detected!
+2024-07-06 08:21:00.173504 - Sensor malfunction detected!
+2024-07-06 08:21:03.169723 - Sensor malfunction detected!
+2024-07-06 08:21:05.166869 - Sensor malfunction detected!
+2024-07-06 08:21:08.166087 - Sensor malfunction detected!
+2024-07-06 08:21:11.172306 - Sensor malfunction detected!
+2024-07-06 08:21:20.171963 - Sensor malfunction detected!
+2024-07-06 08:21:21.176036 - Sensor malfunction detected!
+2024-07-06 08:21:23.165181 - Sensor malfunction detected!
+2024-07-06 08:21:24.178257 - Sensor malfunction detected!
+2024-07-06 08:21:27.166473 - Sensor malfunction detected!
+2024-07-06 08:21:28.173549 - Sensor malfunction detected!
+2024-07-06 08:21:29.172619 - Sensor malfunction detected!
+2024-07-06 08:21:30.160691 - Sensor malfunction detected!
+2024-07-06 08:21:31.168765 - Sensor malfunction detected!
+2024-07-06 08:21:33.178912 - Sensor malfunction detected!
+2024-07-06 08:21:36.177131 - Sensor malfunction detected!
+2024-07-06 08:21:38.168277 - Sensor malfunction detected!
+2024-07-06 08:21:40.174422 - Sensor malfunction detected!
+2024-07-06 08:21:45.175787 - Sensor malfunction detected!
+2024-07-06 08:21:46.180861 - Sensor malfunction detected!
+2024-07-06 08:21:47.178932 - Sensor malfunction detected!
+2024-07-06 08:22:29.167994 - Sensor malfunction detected!
+2024-07-06 08:23:12.065122 - Sensor malfunction detected!
+2024-07-06 08:23:12.549156 - Sensor malfunction detected!
+2024-07-06 08:23:13.302213 - Sensor malfunction detected!
+2024-07-06 08:23:14.507300 - Sensor malfunction detected!
+2024-07-06 08:23:15.515378 - Sensor malfunction detected!
+2024-07-06 08:23:16.520448 - Sensor malfunction detected!
+2024-07-06 08:23:18.511593 - Sensor malfunction detected!
+2024-07-06 08:23:22.520884 - Sensor malfunction detected!
+2024-07-06 08:23:24.519029 - Sensor malfunction detected!
+2024-07-06 08:23:25.510101 - Sensor malfunction detected!
+2024-07-06 08:23:27.511248 - Sensor malfunction detected!
+2024-07-06 08:23:28.507321 - Sensor malfunction detected!
+2024-07-06 08:23:30.510466 - Sensor malfunction detected!
+2024-07-06 08:23:33.181662 - Sensor malfunction detected!
+2024-07-06 08:23:34.177736 - Sensor malfunction detected!
+2024-07-06 08:23:35.166811 - Sensor malfunction detected!
+2024-07-06 08:23:36.168879 - Sensor malfunction detected!
+2024-07-06 08:23:37.176952 - Sensor malfunction detected!
+2024-07-06 08:23:38.170026 - Sensor malfunction detected!
+2024-07-06 08:23:39.176099 - Sensor malfunction detected!
+2024-07-06 08:23:41.167244 - Sensor malfunction detected!
+2024-07-06 08:23:42.169317 - Sensor malfunction detected!
+2024-07-06 08:23:46.176610 - Sensor malfunction detected!
+2024-07-06 08:23:48.181756 - Sensor malfunction detected!
+2024-07-06 08:23:49.174826 - Sensor malfunction detected!
+2024-07-06 08:23:50.178900 - Sensor malfunction detected!
+2024-07-06 08:23:52.176048 - Sensor malfunction detected!
+2024-07-06 08:23:59.184562 - Sensor malfunction detected!
+2024-07-06 08:24:04.173922 - Sensor malfunction detected!
+2024-07-06 08:24:05.190997 - Sensor malfunction detected!
+2024-07-06 08:24:06.176068 - Sensor malfunction detected!
+2024-07-06 08:24:12.179512 - Sensor malfunction detected!
+2024-07-06 08:24:18.177942 - Sensor malfunction detected!
+2024-07-06 08:24:19.167014 - Sensor malfunction detected!
+2024-07-06 08:24:20.173088 - Sensor malfunction detected!
+2024-07-06 08:24:23.174306 - Sensor malfunction detected!
+2024-07-06 08:24:24.180380 - Sensor malfunction detected!
+2024-07-06 08:24:26.170526 - Sensor malfunction detected!
+2024-07-06 08:24:28.164671 - Sensor malfunction detected!
+2024-07-06 08:24:31.167890 - Sensor malfunction detected!
+2024-07-06 08:25:29.181120 - Sensor malfunction detected!
+2024-07-06 08:26:29.182496 - Sensor malfunction detected!
+2024-07-06 08:27:29.175870 - Sensor malfunction detected!
+2024-07-06 08:29:29.191624 - Sensor malfunction detected!
+2024-07-06 08:29:41.512521 - System is not detecting any waste!
+2024-07-06 08:29:42.512593 - Sensor malfunction detected!
+2024-07-06 08:29:44.116709 - Sensor malfunction detected!
+2024-07-06 08:29:45.106782 - Sensor malfunction detected!
+2024-07-06 08:29:46.107855 - System is not detecting any waste!
+2024-07-06 08:29:47.104927 - System is not detecting any waste!
+2024-07-06 08:29:48.111000 - System is not detecting any waste!
+2024-07-06 08:29:49.118074 - Sensor malfunction detected!
+2024-07-06 08:29:50.125148 - System is not detecting any waste!
+2024-07-06 08:29:51.105220 - Sensor malfunction detected!
+2024-07-06 08:29:52.113291 - Sensor malfunction detected!
+2024-07-06 08:29:53.117365 - Sensor malfunction detected!
+2024-07-06 08:29:54.106438 - Sensor malfunction detected!
+2024-07-06 08:29:55.105511 - Sensor malfunction detected!
+2024-07-06 08:29:56.105584 - Sensor malfunction detected!
+2024-07-06 08:29:58.118730 - Sensor malfunction detected!
+2024-07-06 08:29:59.119804 - Sensor malfunction detected!
+2024-07-06 08:30:03.113094 - Sensor malfunction detected!
+2024-07-06 08:30:04.119168 - Sensor malfunction detected!
+2024-07-06 08:30:05.106239 - System is not detecting any waste!
+2024-07-06 08:30:06.107312 - Sensor malfunction detected!
+2024-07-06 08:30:07.113385 - Sensor malfunction detected!
+2024-07-06 08:30:10.114614 - System is not detecting any waste!
+2024-07-06 08:30:11.104678 - System is not detecting any waste!
+2024-07-06 08:30:14.120898 - System is not detecting any waste!
+2024-07-06 08:30:16.112042 - Sensor malfunction detected!
+2024-07-06 08:30:17.113114 - Sensor malfunction detected!
+2024-07-06 08:30:18.104187 - Sensor malfunction detected!
+2024-07-06 08:30:19.111260 - Sensor malfunction detected!
+2024-07-06 08:30:20.116339 - Sensor malfunction detected!
+2024-07-06 08:30:21.106409 - Sensor malfunction detected!
+2024-07-06 08:30:22.120480 - Sensor malfunction detected!
+2024-07-06 08:30:24.119628 - Sensor malfunction detected!
+2024-07-06 08:30:25.106699 - Sensor malfunction detected!
+2024-07-06 08:30:26.114770 - Sensor malfunction detected!
+2024-07-06 08:30:28.175924 - Sensor malfunction detected!
+2024-07-06 08:30:29.175995 - System is not detecting any waste!
+2024-07-06 08:30:30.165067 - System is not detecting any waste!
+2024-07-06 08:30:33.168286 - Sensor malfunction detected!
+2024-07-06 08:30:35.181432 - Sensor malfunction detected!
+2024-07-06 08:30:36.166505 - Sensor malfunction detected!
+2024-07-06 08:30:37.170578 - Sensor malfunction detected!
+2024-07-06 08:30:38.174650 - Sensor malfunction detected!
+2024-07-06 08:30:39.170725 - Sensor malfunction detected!
+2024-07-06 08:30:40.176799 - Sensor malfunction detected!
+2024-07-06 08:30:42.171942 - Sensor malfunction detected!
+2024-07-06 08:30:43.172015 - Sensor malfunction detected!
+2024-07-06 08:30:44.178089 - Sensor malfunction detected!
+2024-07-06 08:30:45.168161 - Sensor malfunction detected!
+2024-07-06 08:30:47.177309 - Sensor malfunction detected!
+2024-07-06 08:30:48.164382 - Sensor malfunction detected!
+2024-07-06 08:30:49.173454 - System is not detecting any waste!
+2024-07-06 08:30:50.110521 - Sensor malfunction detected!
+2024-07-06 08:30:51.121595 - Sensor malfunction detected!
+2024-07-06 08:30:51.537624 - Sensor malfunction detected!
+2024-07-06 08:30:54.915871 - Sensor malfunction detected!
+2024-07-06 08:30:55.914944 - Sensor malfunction detected!
+2024-07-06 08:30:58.914163 - Sensor malfunction detected!
+2024-07-06 08:30:59.916237 - Sensor malfunction detected!
+2024-07-06 08:31:00.916308 - System is not detecting any waste!
+2024-07-06 08:31:01.922382 - System is not detecting any waste!
+2024-07-06 08:31:02.919456 - System is not detecting any waste!
+2024-07-06 08:31:03.913528 - Sensor malfunction detected!
+2024-07-06 08:31:04.920600 - Sensor malfunction detected!
+2024-07-06 08:31:05.914673 - Sensor malfunction detected!
+2024-07-06 08:31:06.917746 - System is not detecting any waste!
+2024-07-06 08:31:07.913821 - Sensor malfunction detected!
+2024-07-06 08:31:08.929892 - Sensor malfunction detected!
+2024-07-06 08:31:10.963044 - Sensor malfunction detected!
+2024-07-06 08:31:12.914185 - Sensor malfunction detected!
+2024-07-06 08:31:18.926624 - Sensor malfunction detected!
+2024-07-06 08:31:19.920700 - Sensor malfunction detected!
+2024-07-06 08:31:20.917768 - Sensor malfunction detected!
+2024-07-06 08:31:22.914914 - Sensor malfunction detected!
+2024-07-06 08:31:23.913986 - System is not detecting any waste!
+2024-07-06 08:31:24.916058 - Sensor malfunction detected!
+2024-07-06 08:31:26.171150 - System is not detecting any waste!
+2024-07-06 08:31:28.167296 - Sensor malfunction detected!
+2024-07-06 08:31:29.178372 - Sensor malfunction detected!
+2024-07-06 08:31:31.176515 - System is not detecting any waste!
+2024-07-06 08:31:33.164660 - System is not detecting any waste!
+2024-07-06 08:31:34.171734 - Sensor malfunction detected!
+2024-07-06 08:31:35.181808 - Sensor malfunction detected!
+2024-07-06 08:31:37.170953 - Sensor malfunction detected!
+2024-07-06 08:31:38.178026 - Sensor malfunction detected!
+2024-07-06 08:31:40.180175 - System is not detecting any waste!
+2024-07-06 08:31:41.176245 - Sensor malfunction detected!
+2024-07-06 08:31:42.165317 - System is not detecting any waste!
+2024-07-06 08:31:43.169390 - Sensor malfunction detected!
+2024-07-06 08:31:44.188465 - System is not detecting any waste!
+2024-07-06 08:31:46.165608 - Sensor malfunction detected!
+2024-07-06 08:31:48.179756 - Sensor malfunction detected!
+2024-07-06 08:31:49.167828 - Sensor malfunction detected!
+2024-07-06 08:31:50.173900 - Sensor malfunction detected!
+2024-07-06 08:31:51.174973 - Sensor malfunction detected!
+2024-07-06 08:31:54.185195 - Sensor malfunction detected!
+2024-07-06 08:31:55.176265 - System is not detecting any waste!
+2024-07-06 08:31:56.177339 - Sensor malfunction detected!
+2024-07-06 08:31:57.162410 - Sensor malfunction detected!
+2024-07-06 08:31:58.166483 - Sensor malfunction detected!
+2024-07-06 08:31:59.184558 - Sensor malfunction detected!
+2024-07-06 08:32:00.164629 - System is not detecting any waste!
+2024-07-06 08:32:01.171703 - Sensor malfunction detected!
+2024-07-06 08:32:03.164850 - Sensor malfunction detected!
+2024-07-06 08:32:04.160920 - Sensor malfunction detected!
+2024-07-06 08:32:05.178994 - Sensor malfunction detected!
+2024-07-06 08:32:06.178070 - Sensor malfunction detected!
+2024-07-06 08:32:07.168141 - System is not detecting any waste!
+2024-07-06 08:32:08.168213 - Sensor malfunction detected!
+2024-07-06 08:32:09.171286 - Sensor malfunction detected!
+2024-07-06 08:32:10.197360 - Sensor malfunction detected!
+2024-07-06 08:32:12.179506 - Sensor malfunction detected!
+2024-07-06 08:32:13.167577 - System is not detecting any waste!
+2024-07-06 08:32:14.189654 - Sensor malfunction detected!
+2024-07-06 08:32:15.178723 - Sensor malfunction detected!
+2024-07-06 08:32:17.171869 - System is not detecting any waste!
+2024-07-06 08:32:19.170015 - Sensor malfunction detected!
+2024-07-06 08:32:20.175088 - Sensor malfunction detected!
+2024-07-06 08:32:21.182163 - Sensor malfunction detected!
+2024-07-06 08:32:22.172234 - Sensor malfunction detected!
+2024-07-06 08:32:23.174306 - Sensor malfunction detected!
+2024-07-06 08:32:24.178381 - System is not detecting any waste!
+2024-07-06 08:32:25.165452 - Sensor malfunction detected!
+2024-07-06 08:35:29.184869 - Sensor malfunction detected!
+2024-07-06 08:35:39.004586 - Sensor malfunction detected!
+2024-07-06 08:35:41.477766 - Sensor malfunction detected!
+2024-07-06 08:35:42.449838 - Sensor malfunction detected!
+2024-07-06 08:35:43.486912 - Sensor malfunction detected!
+2024-07-06 08:35:44.521990 - Sensor malfunction detected!
+2024-07-06 08:35:45.444054 - Sensor malfunction detected!
+2024-07-06 08:35:47.461205 - Sensor malfunction detected!
+2024-07-06 08:35:48.454275 - Sensor malfunction detected!
+2024-07-06 08:35:49.444348 - Sensor malfunction detected!
+2024-07-06 08:35:50.458421 - Sensor malfunction detected!
+2024-07-06 08:35:51.462494 - Sensor malfunction detected!
+2024-07-06 08:35:52.499571 - Sensor malfunction detected!
+2024-07-06 08:35:53.509644 - Sensor malfunction detected!
+2024-07-06 08:35:54.495715 - System is not detecting any waste!
+2024-07-06 08:35:55.576795 - System is not detecting any waste!
+2024-07-06 08:35:56.793886 - Sensor malfunction detected!
+2024-07-06 08:35:57.542936 - Sensor malfunction detected!
+2024-07-06 08:35:58.454004 - System is not detecting any waste!
+2024-07-06 08:35:59.452079 - System is not detecting any waste!
+2024-07-06 08:36:01.460226 - Sensor malfunction detected!
+2024-07-06 08:36:02.450296 - Sensor malfunction detected!
+2024-07-06 08:36:03.737391 - Sensor malfunction detected!
+2024-07-06 08:36:06.473589 - System is not detecting any waste!
+2024-07-06 08:36:08.549741 - Sensor malfunction detected!
+2024-07-06 08:36:09.449805 - Sensor malfunction detected!
+2024-07-06 08:36:10.444878 - Sensor malfunction detected!
+2024-07-06 08:36:12.456025 - System is not detecting any waste!
+2024-07-06 08:36:13.475102 - System is not detecting any waste!
+2024-07-06 08:36:15.456244 - Sensor malfunction detected!
+2024-07-06 08:36:16.463321 - System is not detecting any waste!
+2024-07-06 08:36:17.460389 - Sensor malfunction detected!
+2024-07-06 08:36:18.509467 - Sensor malfunction detected!
+2024-07-06 08:36:19.458537 - Sensor malfunction detected!
+2024-07-06 08:36:20.485611 - Sensor malfunction detected!
+2024-07-06 08:36:22.510758 - System is not detecting any waste!
+2024-07-06 08:36:26.460045 - Sensor malfunction detected!
+2024-07-06 08:36:27.456121 - System is not detecting any waste!
+2024-07-06 08:36:29.188245 - Sensor malfunction detected!
+2024-07-06 08:36:29.463265 - Sensor malfunction detected!
+2024-07-06 08:36:30.463338 - Sensor malfunction detected!
+2024-07-06 08:36:31.493412 - System is not detecting any waste!
+2024-07-06 08:36:32.484488 - Sensor malfunction detected!
+2024-07-06 08:36:33.525562 - Sensor malfunction detected!
+2024-07-06 08:36:34.459632 - Sensor malfunction detected!
+2024-07-06 08:36:36.452775 - Sensor malfunction detected!
+2024-07-06 08:36:37.528852 - System is not detecting any waste!
+2024-07-06 08:36:38.503924 - System is not detecting any waste!
+2024-07-06 08:36:39.461998 - Sensor malfunction detected!
+2024-07-06 08:36:40.460066 - Sensor malfunction detected!
+2024-07-06 08:36:41.461140 - Sensor malfunction detected!
+2024-07-06 08:36:42.469219 - System is not detecting any waste!
+2024-07-06 08:36:43.459286 - System is not detecting any waste!
+2024-07-06 08:36:44.530365 - System is not detecting any waste!
+2024-07-06 08:36:45.456432 - Sensor malfunction detected!
+2024-07-06 08:36:46.469506 - Sensor malfunction detected!
+2024-07-06 08:36:47.460577 - Sensor malfunction detected!
+2024-07-06 08:36:48.484653 - System is not detecting any waste!
+2024-07-06 08:36:49.458725 - Sensor malfunction detected!
+2024-07-06 08:36:50.457796 - Sensor malfunction detected!
+2024-07-06 08:36:51.485875 - Sensor malfunction detected!
+2024-07-06 08:36:53.471017 - System is not detecting any waste!
+2024-07-06 08:36:54.482089 - System is not detecting any waste!
+2024-07-06 08:36:56.473237 - Sensor malfunction detected!
+2024-07-06 08:36:57.462306 - Sensor malfunction detected!
+2024-07-06 08:36:58.458381 - System is not detecting any waste!
+2024-07-06 08:36:59.463456 - System is not detecting any waste!
+2024-07-06 08:37:00.459525 - Sensor malfunction detected!
+2024-07-06 08:37:01.457599 - System is not detecting any waste!
+2024-07-06 08:37:03.546751 - Sensor malfunction detected!
+2024-07-06 08:37:04.459817 - Sensor malfunction detected!
+2024-07-06 08:37:05.461892 - System is not detecting any waste!
+2024-07-06 08:37:06.462964 - Sensor malfunction detected!
+2024-07-06 08:37:08.467109 - System is not detecting any waste!
+2024-07-06 08:37:10.462254 - Sensor malfunction detected!
+2024-07-06 08:37:11.462327 - Sensor malfunction detected!
+2024-07-06 08:37:13.456473 - Sensor malfunction detected!
+2024-07-06 08:37:14.464547 - System is not detecting any waste!
+2024-07-06 08:37:17.465765 - Sensor malfunction detected!
+2024-07-06 08:37:19.460910 - System is not detecting any waste!
+2024-07-06 08:37:20.458983 - System is not detecting any waste!
+2024-07-06 08:37:21.462056 - System is not detecting any waste!
+2024-07-06 08:37:22.534134 - Sensor malfunction detected!
+2024-07-06 08:37:24.458274 - Sensor malfunction detected!
+2024-07-06 08:37:25.456349 - Sensor malfunction detected!
+2024-07-06 08:37:26.462421 - Sensor malfunction detected!
+2024-07-06 08:37:27.463495 - Sensor malfunction detected!
+2024-07-06 08:37:28.465568 - Sensor malfunction detected!
+2024-07-06 08:37:29.188622 - Sensor malfunction detected!
+2024-07-06 08:37:29.460640 - Sensor malfunction detected!
+2024-07-06 08:37:30.513717 - Sensor malfunction detected!
+2024-07-06 08:37:31.453784 - Sensor malfunction detected!
+2024-07-06 08:37:32.460860 - System is not detecting any waste!
+2024-07-06 08:37:33.554940 - System is not detecting any waste!
+2024-07-06 08:37:34.720028 - Sensor malfunction detected!
+2024-07-06 08:37:36.473151 - System is not detecting any waste!
+2024-07-06 08:37:37.469224 - Sensor malfunction detected!
+2024-07-06 08:37:40.471443 - Sensor malfunction detected!
+2024-07-06 08:37:41.524518 - Sensor malfunction detected!
+2024-07-06 08:37:43.459661 - Sensor malfunction detected!
+2024-07-06 08:37:44.461734 - System is not detecting any waste!
+2024-07-06 08:37:47.461953 - Sensor malfunction detected!
+2024-07-06 08:37:50.454171 - Sensor malfunction detected!
+2024-07-06 08:37:51.470244 - Sensor malfunction detected!
+2024-07-06 08:37:53.456390 - Sensor malfunction detected!
+2024-07-06 08:37:54.459463 - Sensor malfunction detected!
+2024-07-06 08:37:56.511613 - Sensor malfunction detected!
+2024-07-06 08:37:57.490683 - Sensor malfunction detected!
+2024-07-06 08:37:58.469759 - Sensor malfunction detected!
+2024-07-06 08:37:59.495832 - Sensor malfunction detected!
+2024-07-06 08:38:02.461046 - System is not detecting any waste!
+2024-07-06 08:38:03.521126 - System is not detecting any waste!
+2024-07-06 08:38:04.464192 - Sensor malfunction detected!
+2024-07-06 08:38:05.462267 - Sensor malfunction detected!
+2024-07-06 08:38:09.485558 - Sensor malfunction detected!
+2024-07-06 08:38:10.458629 - Sensor malfunction detected!
+2024-07-06 08:38:11.555709 - System is not detecting any waste!
+2024-07-06 08:38:12.460776 - Sensor malfunction detected!
+2024-07-06 08:38:13.460849 - Sensor malfunction detected!
+2024-07-06 08:38:14.522924 - Sensor malfunction detected!
+2024-07-06 08:38:15.461997 - System is not detecting any waste!
+2024-07-06 08:38:16.495069 - Sensor malfunction detected!
+2024-07-06 08:38:17.470141 - System is not detecting any waste!
+2024-07-06 08:38:18.519217 - System is not detecting any waste!
+2024-07-06 08:38:19.456285 - System is not detecting any waste!
+2024-07-06 08:38:20.553366 - Sensor malfunction detected!
+2024-07-06 08:38:21.465433 - Sensor malfunction detected!
+2024-07-06 08:38:22.460504 - Sensor malfunction detected!
+2024-07-06 08:38:23.458578 - Sensor malfunction detected!
+2024-07-06 08:38:24.456650 - System is not detecting any waste!
+2024-07-06 08:38:25.463726 - System is not detecting any waste!
+2024-07-06 08:38:26.460796 - Sensor malfunction detected!
+2024-07-06 08:38:28.459943 - System is not detecting any waste!
+2024-07-06 08:38:30.469089 - Sensor malfunction detected!
+2024-07-06 08:38:31.458160 - Sensor malfunction detected!
+2024-07-06 08:38:32.460234 - System is not detecting any waste!
+2024-07-06 08:38:34.468380 - Sensor malfunction detected!
+2024-07-06 08:38:36.476527 - System is not detecting any waste!
+2024-07-06 08:38:37.461599 - Sensor malfunction detected!
+2024-07-06 08:38:38.465671 - System is not detecting any waste!
+2024-07-06 08:38:40.491819 - Sensor malfunction detected!
+2024-07-06 08:38:41.456889 - Sensor malfunction detected!
+2024-07-06 08:38:43.479039 - System is not detecting any waste!
+2024-07-06 08:38:44.460109 - System is not detecting any waste!
+2024-07-06 08:38:45.468183 - Sensor malfunction detected!
+2024-07-06 08:38:46.461255 - System is not detecting any waste!
+2024-07-06 08:38:47.461328 - Sensor malfunction detected!
+2024-07-06 08:38:48.462402 - Sensor malfunction detected!
+2024-07-06 08:38:50.458549 - System is not detecting any waste!
+2024-07-06 08:38:52.462691 - Sensor malfunction detected!
+2024-07-06 08:38:53.473767 - System is not detecting any waste!
+2024-07-06 08:38:54.503842 - Sensor malfunction detected!
+2024-07-06 08:38:55.458911 - System is not detecting any waste!
+2024-07-06 08:38:57.535063 - Sensor malfunction detected!
+2024-07-06 08:38:58.461129 - System is not detecting any waste!
+2024-07-06 08:38:59.539208 - Sensor malfunction detected!
+2024-07-06 08:39:00.455274 - Sensor malfunction detected!
+2024-07-06 08:39:01.462349 - Sensor malfunction detected!
+2024-07-06 08:39:02.503424 - Sensor malfunction detected!
+2024-07-06 08:39:03.459494 - Sensor malfunction detected!
+2024-07-06 08:39:05.461639 - Sensor malfunction detected!
+2024-07-06 08:39:06.462712 - Sensor malfunction detected!
+2024-07-06 08:39:07.450786 - System is not detecting any waste!
+2024-07-06 08:39:08.468861 - System is not detecting any waste!
+2024-07-06 08:39:10.458005 - Sensor malfunction detected!
+2024-07-06 08:39:12.467151 - System is not detecting any waste!
+2024-07-06 08:39:14.467297 - System is not detecting any waste!
+2024-07-06 08:39:16.460442 - Sensor malfunction detected!
+2024-07-06 08:39:18.459588 - Sensor malfunction detected!
+2024-07-06 08:39:19.575669 - System is not detecting any waste!
+2024-07-06 08:39:20.459734 - System is not detecting any waste!
+2024-07-06 08:39:21.460807 - System is not detecting any waste!
+2024-07-06 08:39:22.464882 - Sensor malfunction detected!
+2024-07-06 08:39:23.465954 - Sensor malfunction detected!
+2024-07-06 08:39:24.482027 - Sensor malfunction detected!
+2024-07-06 08:39:25.459098 - Sensor malfunction detected!
+2024-07-06 08:39:26.465171 - Sensor malfunction detected!
+2024-07-06 08:39:27.555252 - Sensor malfunction detected!
+2024-07-06 08:39:28.461317 - Sensor malfunction detected!
+2024-07-06 08:39:29.455391 - Sensor malfunction detected!
+2024-07-06 08:39:30.477464 - Sensor malfunction detected!
+2024-07-06 08:39:32.457608 - Sensor malfunction detected!
+2024-07-06 08:39:33.456682 - System is not detecting any waste!
+2024-07-06 08:39:34.464755 - Sensor malfunction detected!
+2024-07-06 08:39:35.480828 - Sensor malfunction detected!
+2024-07-06 08:39:36.456900 - Sensor malfunction detected!
+2024-07-06 08:39:37.468974 - Sensor malfunction detected!
+2024-07-06 08:39:38.455047 - System is not detecting any waste!
+2024-07-06 08:39:39.455120 - System is not detecting any waste!
+2024-07-06 08:39:41.466266 - System is not detecting any waste!
+2024-07-06 08:39:42.498340 - Sensor malfunction detected!
+2024-07-06 08:39:43.524417 - Sensor malfunction detected!
+2024-07-06 08:39:45.522561 - Sensor malfunction detected!
+2024-07-06 08:39:46.483633 - System is not detecting any waste!
+2024-07-06 08:39:47.446702 - System is not detecting any waste!
+2024-07-06 08:39:48.449773 - Sensor malfunction detected!
+2024-07-06 08:39:49.472849 - System is not detecting any waste!
+2024-07-06 08:39:50.467923 - Sensor malfunction detected!
+2024-07-06 08:39:51.461995 - Sensor malfunction detected!
+2024-07-06 08:39:52.470069 - System is not detecting any waste!
+2024-07-06 08:39:53.463140 - Sensor malfunction detected!
+2024-07-06 08:39:54.460214 - System is not detecting any waste!
+2024-07-06 08:39:56.477361 - System is not detecting any waste!
+2024-07-06 08:39:58.465505 - Sensor malfunction detected!
+2024-07-06 08:40:00.473651 - Sensor malfunction detected!
+2024-07-06 08:40:01.457723 - Sensor malfunction detected!
+2024-07-06 08:40:02.465797 - Sensor malfunction detected!
+2024-07-06 08:40:03.460870 - Sensor malfunction detected!
+2024-07-06 08:40:05.466016 - System is not detecting any waste!
+2024-07-06 08:40:06.462087 - Sensor malfunction detected!
+2024-07-06 08:40:07.474162 - Sensor malfunction detected!
+2024-07-06 08:40:08.460234 - System is not detecting any waste!
+2024-07-06 08:40:09.465308 - System is not detecting any waste!
+2024-07-06 08:40:11.461454 - System is not detecting any waste!
+2024-07-06 08:40:12.510530 - System is not detecting any waste!
+2024-07-06 08:40:13.462598 - Sensor malfunction detected!
+2024-07-06 08:40:14.467672 - Sensor malfunction detected!
+2024-07-06 08:40:15.463744 - System is not detecting any waste!
+2024-07-06 08:40:17.458890 - System is not detecting any waste!
+2024-07-06 08:40:19.461035 - Sensor malfunction detected!
+2024-07-06 08:40:21.474183 - Sensor malfunction detected!
+2024-07-06 08:40:22.460255 - System is not detecting any waste!
+2024-07-06 08:40:23.461329 - System is not detecting any waste!
+2024-07-06 08:40:25.701495 - Sensor malfunction detected!
+2024-07-06 08:40:26.490550 - Sensor malfunction detected!
+2024-07-06 08:40:27.463620 - Sensor malfunction detected!
+2024-07-06 08:40:28.485693 - System is not detecting any waste!
+2024-07-06 08:40:29.180749 - System is not detecting any waste!
+2024-07-06 08:40:29.494768 - Sensor malfunction detected!
+2024-07-06 08:40:30.457836 - System is not detecting any waste!
+2024-07-06 08:40:31.482913 - Sensor malfunction detected!
+2024-07-06 08:40:32.467984 - Sensor malfunction detected!
+2024-07-06 08:40:33.462060 - Sensor malfunction detected!
+2024-07-06 08:40:34.836158 - Sensor malfunction detected!
+2024-07-06 08:40:36.476277 - Sensor malfunction detected!
+2024-07-06 08:40:39.461494 - Sensor malfunction detected!
+2024-07-06 08:40:40.573575 - Sensor malfunction detected!
+2024-07-06 08:40:41.474643 - Sensor malfunction detected!
+2024-07-06 08:40:42.459719 - Sensor malfunction detected!
+2024-07-06 08:40:43.464787 - Sensor malfunction detected!
+2024-07-06 08:40:44.452859 - Sensor malfunction detected!
+2024-07-06 08:40:45.518936 - Sensor malfunction detected!
+2024-07-06 08:40:46.454004 - Sensor malfunction detected!
+2024-07-06 08:40:47.571086 - Sensor malfunction detected!
+2024-07-06 08:40:48.500156 - Sensor malfunction detected!
+2024-07-06 08:40:49.453224 - Sensor malfunction detected!
+2024-07-06 08:40:50.465295 - Sensor malfunction detected!
+2024-07-06 08:40:52.487444 - Sensor malfunction detected!
+2024-07-06 08:40:53.481521 - Sensor malfunction detected!
+2024-07-06 08:40:54.586602 - Sensor malfunction detected!
+2024-07-06 08:40:55.490664 - System is not detecting any waste!
+2024-07-06 08:40:56.462734 - Sensor malfunction detected!
+2024-07-06 08:40:57.461808 - Sensor malfunction detected!
+2024-07-06 08:40:58.472880 - System is not detecting any waste!
+2024-07-06 08:40:59.460951 - System is not detecting any waste!
+2024-07-06 08:41:00.461026 - System is not detecting any waste!
+2024-07-06 08:41:02.459172 - Sensor malfunction detected!
+2024-07-06 08:41:04.455318 - Sensor malfunction detected!
+2024-07-06 08:41:09.470685 - System is not detecting any waste!
+2024-07-06 08:41:10.528760 - Sensor malfunction detected!
+2024-07-06 08:41:12.465902 - Sensor malfunction detected!
+2024-07-06 08:41:14.461047 - Sensor malfunction detected!
+2024-07-06 08:41:15.470120 - Sensor malfunction detected!
+2024-07-06 08:41:16.474192 - Sensor malfunction detected!
+2024-07-06 08:41:17.456264 - Sensor malfunction detected!
+2024-07-06 08:41:19.458411 - Sensor malfunction detected!
+2024-07-06 08:41:20.459488 - Sensor malfunction detected!
+2024-07-06 08:41:21.463558 - Sensor malfunction detected!
+2024-07-06 08:41:22.472631 - Sensor malfunction detected!
+2024-07-06 08:41:23.457704 - Sensor malfunction detected!
+2024-07-06 08:41:24.462775 - Sensor malfunction detected!
+2024-07-06 08:41:26.465923 - Sensor malfunction detected!
+2024-07-06 08:41:28.463068 - System is not detecting any waste!
+2024-07-06 08:41:32.522364 - Sensor malfunction detected!
+2024-07-06 08:41:33.455437 - Sensor malfunction detected!
+2024-07-06 08:41:34.487509 - Sensor malfunction detected!
+2024-07-06 08:41:35.462579 - System is not detecting any waste!
+2024-07-06 08:41:37.519731 - System is not detecting any waste!
+2024-07-06 08:41:38.485798 - System is not detecting any waste!
+2024-07-06 08:41:40.559950 - System is not detecting any waste!
+2024-07-06 08:41:41.460016 - Sensor malfunction detected!
+2024-07-06 08:41:42.466089 - System is not detecting any waste!
+2024-07-06 08:41:43.479164 - System is not detecting any waste!
+2024-07-06 08:41:44.462235 - Sensor malfunction detected!
+2024-07-06 08:41:45.475308 - Sensor malfunction detected!
+2024-07-06 08:41:46.461379 - System is not detecting any waste!
+2024-07-06 08:41:47.461451 - Sensor malfunction detected!
+2024-07-06 08:41:48.556534 - Sensor malfunction detected!
+2024-07-06 08:41:49.555606 - Sensor malfunction detected!
+2024-07-06 08:41:50.466672 - Sensor malfunction detected!
+2024-07-06 08:41:51.456744 - Sensor malfunction detected!
+2024-07-06 08:41:52.467818 - Sensor malfunction detected!
+2024-07-06 08:41:54.463965 - Sensor malfunction detected!
+2024-07-06 08:41:55.478038 - System is not detecting any waste!
+2024-07-06 08:41:56.491110 - Sensor malfunction detected!
+2024-07-06 08:41:57.730200 - Sensor malfunction detected!
+2024-07-06 08:41:59.471331 - Sensor malfunction detected!
+2024-07-06 08:42:00.539407 - Sensor malfunction detected!
+2024-07-06 08:42:01.508477 - Sensor malfunction detected!
+2024-07-06 08:42:02.471548 - System is not detecting any waste!
+2024-07-06 08:42:03.582628 - Sensor malfunction detected!
+2024-07-06 08:42:05.508769 - Sensor malfunction detected!
+2024-07-06 08:42:06.486839 - System is not detecting any waste!
+2024-07-06 08:42:08.518988 - Sensor malfunction detected!
+2024-07-06 08:42:09.495058 - Sensor malfunction detected!
+2024-07-06 08:42:10.473130 - System is not detecting any waste!
+2024-07-06 08:42:11.567211 - Sensor malfunction detected!
+2024-07-06 08:42:12.502278 - Sensor malfunction detected!
+2024-07-06 08:42:13.475350 - Sensor malfunction detected!
+2024-07-06 08:42:14.472422 - Sensor malfunction detected!
+2024-07-06 08:42:15.478495 - System is not detecting any waste!
+2024-07-06 08:42:16.512571 - System is not detecting any waste!
+2024-07-06 08:42:17.468641 - Sensor malfunction detected!
+2024-07-06 08:42:19.541792 - Sensor malfunction detected!
+2024-07-06 08:42:20.475860 - Sensor malfunction detected!
+2024-07-06 08:42:21.493936 - Sensor malfunction detected!
+2024-07-06 08:42:22.465005 - System is not detecting any waste!
+2024-07-06 08:42:23.468078 - Sensor malfunction detected!
+2024-07-06 08:42:24.482153 - Sensor malfunction detected!
+2024-07-06 08:42:25.494226 - Sensor malfunction detected!
+2024-07-06 08:42:26.495299 - Sensor malfunction detected!
+2024-07-06 08:42:27.520374 - System is not detecting any waste!
+2024-07-06 08:42:28.490444 - Sensor malfunction detected!
+2024-07-06 08:42:29.480518 - Sensor malfunction detected!
+2024-07-06 08:42:30.562597 - System is not detecting any waste!
+2024-07-06 08:42:31.491664 - Sensor malfunction detected!
+2024-07-06 08:42:32.479736 - Sensor malfunction detected!
+2024-07-06 08:42:33.599817 - System is not detecting any waste!
+2024-07-06 08:42:34.509884 - Sensor malfunction detected!
+2024-07-06 08:42:36.471026 - Sensor malfunction detected!
+2024-07-06 08:42:37.496101 - Sensor malfunction detected!
+2024-07-06 08:42:38.539177 - System is not detecting any waste!
+2024-07-06 08:42:39.495247 - System is not detecting any waste!
+2024-07-06 08:42:41.590399 - Sensor malfunction detected!
+2024-07-06 08:42:42.494466 - System is not detecting any waste!
+2024-07-06 08:42:44.490611 - Sensor malfunction detected!
+2024-07-06 08:42:45.480683 - System is not detecting any waste!
+2024-07-06 08:42:46.551762 - Sensor malfunction detected!
+2024-07-06 08:42:48.464900 - Sensor malfunction detected!
+2024-07-06 08:42:49.599982 - Sensor malfunction detected!
+2024-07-06 08:42:50.501050 - System is not detecting any waste!
+2024-07-06 08:42:51.726139 - System is not detecting any waste!
+2024-07-06 08:42:52.454192 - System is not detecting any waste!
+2024-07-06 08:42:53.466265 - System is not detecting any waste!
+2024-07-06 08:42:55.496414 - Sensor malfunction detected!
+2024-07-06 08:42:56.464485 - System is not detecting any waste!
+2024-07-06 08:42:57.549564 - System is not detecting any waste!
+2024-07-06 08:43:00.611787 - Sensor malfunction detected!
+2024-07-06 08:43:01.492881 - Sensor malfunction detected!
+2024-07-06 08:43:03.480027 - System is not detecting any waste!
+2024-07-06 08:43:04.465099 - System is not detecting any waste!
+2024-07-06 08:43:05.520175 - System is not detecting any waste!
+2024-07-06 08:43:06.494281 - System is not detecting any waste!
+2024-07-06 08:43:08.562431 - Sensor malfunction detected!
+2024-07-06 08:43:09.499009 - Sensor malfunction detected!
+2024-07-06 08:43:10.515083 - System is not detecting any waste!
+2024-07-06 08:43:11.622164 - Sensor malfunction detected!
+2024-07-06 08:43:13.514302 - Sensor malfunction detected!
+2024-07-06 08:43:14.502373 - Sensor malfunction detected!
+2024-07-06 08:43:15.495452 - Sensor malfunction detected!
+2024-07-06 08:43:16.542522 - System is not detecting any waste!
+2024-07-06 08:43:17.495593 - Sensor malfunction detected!
+2024-07-06 08:43:18.472662 - Sensor malfunction detected!
+2024-07-06 08:43:19.968773 - Sensor malfunction detected!
+2024-07-06 08:43:22.496957 - System is not detecting any waste!
+2024-07-06 08:43:24.578112 - Sensor malfunction detected!
+2024-07-06 08:43:25.465174 - System is not detecting any waste!
+2024-07-06 08:43:26.524251 - Sensor malfunction detected!
+2024-07-06 08:43:28.494394 - Sensor malfunction detected!
+2024-07-06 08:43:29.458464 - Sensor malfunction detected!
+2024-07-06 08:43:30.599548 - Sensor malfunction detected!
+2024-07-06 08:43:31.457610 - Sensor malfunction detected!
+2024-07-06 08:43:32.499687 - System is not detecting any waste!
+2024-07-06 08:43:33.522761 - System is not detecting any waste!
+2024-07-06 08:43:34.475830 - Sensor malfunction detected!
+2024-07-06 08:43:36.458975 - Sensor malfunction detected!
+2024-07-06 08:43:37.827074 - Sensor malfunction detected!
+2024-07-06 08:43:38.464120 - System is not detecting any waste!
+2024-07-06 08:43:39.499196 - Sensor malfunction detected!
+2024-07-06 08:43:40.480268 - System is not detecting any waste!
+2024-07-06 08:43:41.463340 - Sensor malfunction detected!
+2024-07-06 08:43:43.519490 - Sensor malfunction detected!
+2024-07-06 08:43:44.497561 - Sensor malfunction detected!
+2024-07-06 08:43:46.571713 - Sensor malfunction detected!
+2024-07-06 08:43:47.508781 - Sensor malfunction detected!
+2024-07-06 08:43:48.502853 - Sensor malfunction detected!
+2024-07-06 08:43:51.738092 - Sensor malfunction detected!
+2024-07-06 08:43:54.540293 - Sensor malfunction detected!
+2024-07-06 08:43:55.465360 - System is not detecting any waste!
+2024-07-06 08:43:56.475434 - System is not detecting any waste!
+2024-07-06 08:43:57.593516 - Sensor malfunction detected!
+2024-07-06 08:43:58.469580 - Sensor malfunction detected!
+2024-07-06 08:43:59.481654 - System is not detecting any waste!
+2024-07-06 08:44:01.471800 - System is not detecting any waste!
+2024-07-06 08:44:02.528877 - Sensor malfunction detected!
+2024-07-06 08:44:04.480018 - System is not detecting any waste!
+2024-07-06 08:44:07.495240 - Sensor malfunction detected!
+2024-07-06 08:44:08.177288 - Sensor malfunction detected!
+2024-07-06 08:44:08.600320 - Sensor malfunction detected!
+2024-07-06 08:44:09.180361 - System is not detecting any waste!
+2024-07-06 08:44:10.166433 - System is not detecting any waste!
+2024-07-06 08:44:10.549461 - System is not detecting any waste!
+2024-07-06 08:44:11.176507 - System is not detecting any waste!
+2024-07-06 08:44:11.500531 - Sensor malfunction detected!
+2024-07-06 08:44:12.500603 - Sensor malfunction detected!
+2024-07-06 08:44:13.162653 - Sensor malfunction detected!
+2024-07-06 08:44:13.544678 - Sensor malfunction detected!
+2024-07-06 08:44:14.170726 - Sensor malfunction detected!
+2024-07-06 08:44:14.476747 - System is not detecting any waste!
+2024-07-06 08:44:16.177873 - System is not detecting any waste!
+2024-07-06 08:44:16.606903 - Sensor malfunction detected!
+2024-07-06 08:44:17.519967 - Sensor malfunction detected!
+2024-07-06 08:44:19.173089 - Sensor malfunction detected!
+2024-07-06 08:44:19.490112 - Sensor malfunction detected!
+2024-07-06 08:44:20.184164 - Sensor malfunction detected!
+2024-07-06 08:44:20.465184 - Sensor malfunction detected!
+2024-07-06 08:44:21.530263 - Sensor malfunction detected!
+2024-07-06 08:44:22.169310 - Sensor malfunction detected!
+2024-07-06 08:44:22.501332 - Sensor malfunction detected!
+2024-07-06 08:44:23.174382 - Sensor malfunction detected!
+2024-07-06 08:44:23.501406 - Sensor malfunction detected!
+2024-07-06 08:44:24.177455 - System is not detecting any waste!
+2024-07-06 08:44:25.163526 - Sensor malfunction detected!
+2024-07-06 08:44:25.473551 - Sensor malfunction detected!
+2024-07-06 08:44:26.183602 - System is not detecting any waste!
+2024-07-06 08:44:26.487623 - Sensor malfunction detected!
+2024-07-06 08:44:27.167673 - System is not detecting any waste!
+2024-07-06 08:44:27.468694 - Sensor malfunction detected!
+2024-07-06 08:44:28.497770 - Sensor malfunction detected!
+2024-07-06 08:44:29.179820 - Sensor malfunction detected!
+2024-07-06 08:44:30.168891 - Sensor malfunction detected!
+2024-07-06 08:44:30.491916 - Sensor malfunction detected!
+2024-07-06 08:44:31.170965 - Sensor malfunction detected!
+2024-07-06 08:44:32.177038 - Sensor malfunction detected!
+2024-07-06 08:44:32.540066 - System is not detecting any waste!
+2024-07-06 08:44:33.169112 - Sensor malfunction detected!
+2024-07-06 08:44:33.475132 - Sensor malfunction detected!
+2024-07-06 08:44:34.193186 - Sensor malfunction detected!
+2024-07-06 08:44:34.507207 - System is not detecting any waste!
+2024-07-06 08:44:35.179256 - Sensor malfunction detected!
+2024-07-06 08:44:35.458280 - Sensor malfunction detected!
+2024-07-06 08:44:36.468351 - Sensor malfunction detected!
+2024-07-06 08:44:37.177403 - Sensor malfunction detected!
+2024-07-06 08:44:37.497425 - System is not detecting any waste!
+2024-07-06 08:44:38.168475 - System is not detecting any waste!
+2024-07-06 08:44:39.174549 - Sensor malfunction detected!
+2024-07-06 08:44:40.551648 - System is not detecting any waste!
+2024-07-06 08:44:42.175766 - Sensor malfunction detected!
+2024-07-06 08:44:42.491790 - System is not detecting any waste!
+2024-07-06 08:44:43.166839 - System is not detecting any waste!
+2024-07-06 08:44:44.173913 - Sensor malfunction detected!
+2024-07-06 08:44:44.479935 - Sensor malfunction detected!
+2024-07-06 08:44:45.178987 - Sensor malfunction detected!
+2024-07-06 08:44:45.501009 - System is not detecting any waste!
+2024-07-06 08:44:46.481081 - System is not detecting any waste!
+2024-07-06 08:44:47.169132 - Sensor malfunction detected!
+2024-07-06 08:44:47.562161 - Sensor malfunction detected!
+2024-07-06 08:44:48.179207 - Sensor malfunction detected!
+2024-07-06 08:44:49.172280 - System is not detecting any waste!
+2024-07-06 08:44:49.491301 - Sensor malfunction detected!
+2024-07-06 08:44:50.173350 - Sensor malfunction detected!
+2024-07-06 08:44:50.491372 - Sensor malfunction detected!
+2024-07-06 08:44:51.174423 - Sensor malfunction detected!
+2024-07-06 08:44:52.163495 - System is not detecting any waste!
+2024-07-06 08:44:52.504520 - System is not detecting any waste!
+2024-07-06 08:44:53.168568 - System is not detecting any waste!
+2024-07-06 08:44:53.494593 - Sensor malfunction detected!
+2024-07-06 08:44:54.169640 - System is not detecting any waste!
+2024-07-06 08:44:55.495739 - Sensor malfunction detected!
+2024-07-06 08:44:56.164787 - Sensor malfunction detected!
+2024-07-06 08:44:56.484810 - System is not detecting any waste!
+2024-07-06 08:44:57.169860 - Sensor malfunction detected!
+2024-07-06 08:44:57.487883 - Sensor malfunction detected!
+2024-07-06 08:44:58.179936 - System is not detecting any waste!
+2024-07-06 08:44:58.502958 - System is not detecting any waste!
+2024-07-06 08:44:59.167005 - Sensor malfunction detected!
+2024-07-06 08:45:00.171079 - Sensor malfunction detected!
+2024-07-06 08:45:00.456100 - Sensor malfunction detected!
+2024-07-06 08:45:01.186156 - Sensor malfunction detected!
+2024-07-06 08:45:01.469174 - Sensor malfunction detected!
+2024-07-06 08:45:02.578255 - Sensor malfunction detected!
+2024-07-06 08:45:03.709339 - Sensor malfunction detected!
+2024-07-06 08:45:04.469392 - System is not detecting any waste!
+2024-07-06 08:45:05.184445 - System is not detecting any waste!
+2024-07-06 08:45:05.461464 - System is not detecting any waste!
+2024-07-06 08:45:06.185519 - System is not detecting any waste!
+2024-07-06 08:45:06.483544 - System is not detecting any waste!
+2024-07-06 08:45:07.527616 - Sensor malfunction detected!
+2024-07-06 08:45:08.491684 - System is not detecting any waste!
+2024-07-06 08:45:09.461756 - Sensor malfunction detected!
+2024-07-06 08:45:10.541835 - Sensor malfunction detected!
+2024-07-06 08:45:11.503906 - System is not detecting any waste!
+2024-07-06 08:45:12.491977 - Sensor malfunction detected!
+2024-07-06 08:45:14.491124 - Sensor malfunction detected!
+2024-07-06 08:45:15.471195 - Sensor malfunction detected!
+2024-07-06 08:45:16.500270 - System is not detecting any waste!
+2024-07-06 08:45:17.461340 - System is not detecting any waste!
+2024-07-06 08:45:19.472486 - Sensor malfunction detected!
+2024-07-06 08:45:20.501070 - Sensor malfunction detected!
+2024-07-06 08:45:21.560144 - Sensor malfunction detected!
+2024-07-06 08:45:22.496214 - System is not detecting any waste!
+2024-07-06 08:45:24.602367 - Sensor malfunction detected!
+2024-07-06 08:45:26.552510 - Sensor malfunction detected!
+2024-07-06 08:45:28.468649 - Sensor malfunction detected!
+2024-07-06 08:45:29.541728 - System is not detecting any waste!
+2024-07-06 08:45:30.493796 - Sensor malfunction detected!
+2024-07-06 08:45:32.580949 - System is not detecting any waste!
+2024-07-06 08:45:34.729106 - Sensor malfunction detected!
+2024-07-06 08:45:35.457159 - Sensor malfunction detected!
+2024-07-06 08:45:36.501235 - Sensor malfunction detected!
+2024-07-06 08:45:39.474451 - Sensor malfunction detected!
+2024-07-06 08:45:40.567531 - Sensor malfunction detected!
+2024-07-06 08:45:43.472742 - System is not detecting any waste!
+2024-07-06 08:45:44.515821 - Sensor malfunction detected!
+2024-07-06 08:45:45.506892 - Sensor malfunction detected!
+2024-07-06 08:45:46.474962 - Sensor malfunction detected!
+2024-07-06 08:45:48.628119 - Sensor malfunction detected!
+2024-07-06 08:45:50.497254 - System is not detecting any waste!
+2024-07-06 08:45:51.585334 - Sensor malfunction detected!
+2024-07-06 08:45:52.467399 - Sensor malfunction detected!
+2024-07-06 08:45:53.493474 - Sensor malfunction detected!
+2024-07-06 08:45:54.493547 - Sensor malfunction detected!
+2024-07-06 08:45:55.499620 - Sensor malfunction detected!
+2024-07-06 08:45:56.520695 - Sensor malfunction detected!
+2024-07-06 08:45:57.484765 - Sensor malfunction detected!
+2024-07-06 08:45:58.504840 - Sensor malfunction detected!
+2024-07-06 08:45:59.650922 - Sensor malfunction detected!
+2024-07-06 08:46:04.006240 - Sensor malfunction detected!
+2024-07-06 08:46:04.493276 - Sensor malfunction detected!
+2024-07-06 08:46:05.473349 - Sensor malfunction detected!
+2024-07-06 08:46:06.500422 - System is not detecting any waste!
+2024-07-06 08:46:08.498568 - Sensor malfunction detected!
+2024-07-06 08:46:09.499641 - Sensor malfunction detected!
+2024-07-06 08:46:10.471711 - Sensor malfunction detected!
+2024-07-06 08:46:11.495785 - Sensor malfunction detected!
+2024-07-06 08:46:12.502862 - System is not detecting any waste!
+2024-07-06 08:46:14.493005 - System is not detecting any waste!
+2024-07-06 08:46:15.522080 - Sensor malfunction detected!
+2024-07-06 08:46:16.512152 - System is not detecting any waste!
+2024-07-06 08:46:17.471222 - System is not detecting any waste!
+2024-07-06 08:46:18.581303 - System is not detecting any waste!
+2024-07-06 08:46:19.503370 - Sensor malfunction detected!
+2024-07-06 08:46:21.494516 - System is not detecting any waste!
+2024-07-06 08:46:23.523663 - System is not detecting any waste!
+2024-07-06 08:46:24.530737 - Sensor malfunction detected!
+2024-07-06 08:46:25.471806 - Sensor malfunction detected!
+2024-07-06 08:46:26.547884 - Sensor malfunction detected!
+2024-07-06 08:46:27.495953 - System is not detecting any waste!
+2024-07-06 08:46:28.499026 - Sensor malfunction detected!
+2024-07-06 08:46:29.178079 - Sensor malfunction detected!
+2024-07-06 08:46:29.583105 - Sensor malfunction detected!
+2024-07-06 08:46:31.483246 - System is not detecting any waste!
+2024-07-06 08:46:32.675331 - Sensor malfunction detected!
+2024-07-06 08:46:33.497392 - System is not detecting any waste!
+2024-07-06 08:46:34.526466 - Sensor malfunction detected!
+2024-07-06 08:46:35.469534 - Sensor malfunction detected!
+2024-07-06 08:46:36.497608 - System is not detecting any waste!
+2024-07-06 08:46:37.561686 - Sensor malfunction detected!
+2024-07-06 08:46:38.511755 - Sensor malfunction detected!
+2024-07-06 08:46:39.490826 - Sensor malfunction detected!
+2024-07-06 08:46:41.505973 - Sensor malfunction detected!
+2024-07-06 08:46:43.482118 - Sensor malfunction detected!
+2024-07-06 08:46:44.477190 - Sensor malfunction detected!
+2024-07-06 08:46:45.544268 - System is not detecting any waste!
+2024-07-06 08:46:47.495410 - Sensor malfunction detected!
+2024-07-06 08:46:48.467482 - Sensor malfunction detected!
+2024-07-06 08:46:49.521558 - Sensor malfunction detected!
+2024-07-06 08:46:50.481629 - Sensor malfunction detected!
+2024-07-06 08:46:51.470700 - System is not detecting any waste!
+2024-07-06 08:46:53.989884 - Sensor malfunction detected!
+2024-07-06 08:46:54.894950 - System is not detecting any waste!
+2024-07-06 08:46:55.901023 - Sensor malfunction detected!
+2024-07-06 08:46:57.957173 - System is not detecting any waste!
+2024-07-06 08:46:58.931244 - System is not detecting any waste!
+2024-07-06 08:47:01.948464 - System is not detecting any waste!
+2024-07-06 08:47:03.914609 - Sensor malfunction detected!
+2024-07-06 08:47:04.937684 - Sensor malfunction detected!
+2024-07-06 08:47:05.893754 - Sensor malfunction detected!
+2024-07-06 08:47:06.901825 - System is not detecting any waste!
+2024-07-06 08:47:07.957903 - Sensor malfunction detected!
+2024-07-06 08:47:08.895972 - Sensor malfunction detected!
+2024-07-06 08:47:11.158136 - Sensor malfunction detected!
+2024-07-06 08:47:11.909190 - Sensor malfunction detected!
+2024-07-06 08:47:12.935265 - Sensor malfunction detected!
+2024-07-06 08:47:14.908410 - Sensor malfunction detected!
+2024-07-06 08:47:15.938485 - System is not detecting any waste!
+2024-07-06 08:47:16.903555 - System is not detecting any waste!
+2024-07-06 08:47:19.027709 - System is not detecting any waste!
+2024-07-06 08:47:19.913774 - Sensor malfunction detected!
+2024-07-06 08:47:20.944849 - Sensor malfunction detected!
+2024-07-06 08:47:22.019928 - Sensor malfunction detected!
+2024-07-06 08:47:23.920066 - System is not detecting any waste!
+2024-07-06 08:47:24.936141 - System is not detecting any waste!
+2024-07-06 08:47:25.897210 - Sensor malfunction detected!
+2024-07-06 08:47:27.907357 - System is not detecting any waste!
+2024-07-06 08:47:28.900430 - System is not detecting any waste!
+2024-07-06 08:47:30.010511 - Sensor malfunction detected!
+2024-07-06 08:47:30.902575 - Sensor malfunction detected!
+2024-07-06 08:47:32.910722 - System is not detecting any waste!
+2024-07-06 08:47:33.916795 - System is not detecting any waste!
+2024-07-06 08:47:34.945871 - Sensor malfunction detected!
+2024-07-06 08:47:35.910942 - Sensor malfunction detected!
+2024-07-06 08:47:36.918016 - Sensor malfunction detected!
+2024-07-06 08:47:37.978092 - Sensor malfunction detected!
+2024-07-06 08:47:38.896159 - System is not detecting any waste!
+2024-07-06 08:47:39.903232 - System is not detecting any waste!
+2024-07-06 08:47:41.902377 - Sensor malfunction detected!
+2024-07-06 08:47:43.914524 - System is not detecting any waste!
+2024-07-06 08:47:47.944820 - System is not detecting any waste!
+2024-07-06 08:47:49.000896 - System is not detecting any waste!
+2024-07-06 08:47:49.922962 - Sensor malfunction detected!
+2024-07-06 08:47:50.899034 - Sensor malfunction detected!
+2024-07-06 08:47:51.897107 - Sensor malfunction detected!
+2024-07-06 08:47:52.895179 - Sensor malfunction detected!
+2024-07-06 08:48:29.165827 - System is not detecting any waste!
+2024-07-06 08:48:38.024471 - System is not detecting any waste!
+2024-07-06 08:49:29.166200 - Sensor malfunction detected!
+2024-07-06 08:50:29.174576 - System is not detecting any waste!
+2024-07-06 08:50:37.913211 - System is not detecting any waste!
+2024-07-06 08:52:29.173355 - Sensor malfunction detected!

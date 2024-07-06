@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Waste Sorter App</title>
+    <style>
+        @import url('https://unpkg.com/open-props/open-props.min.css');
+        @import url('https://unpkg.com/open-props/normalize.min.css');
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: var(--gray-10); /* Slightly lighter background */
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .action-bar {
+            width: 100%;
+            background: grey;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+        }
+
+        .action-bar .left,
+        .action-bar .right {
+            display: flex;
+            gap: 10px;
+            position: relative;
+        }
+
+        .action-bar .buttons {
+            display: flex;
+            transition: all 0.3s ease-in-out;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        .action-bar .buttons.separate a {
+            margin: 0 5px;
+        }
+
+        .action-bar .buttons a {
+            background: hsl(0 0% 60% / 0.18);
+            display: inline-block;
+            padding: var(--size-2) var(--size-4);
+            border-radius: var(--radius-5);
+            margin: 0;
+            color: var(--gray-0);
+            font-size: var(--font-size-1);
+            font-weight: var(--font-weight-0);
+            backdrop-filter: blur(40px);
+            transition: color 0.2s, background 0.2s, margin 0.3s ease-in-out;
+            text-decoration: none;
+        }
+
+        .action-bar .buttons a:hover {
+            background: var(--gray-0);
+            color: var(--gray-12);
+        }
+
+        .action-bar .middle {
+            flex-grow: 1;
+            display: flex;
+            justify-content: center;
+        }
+
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .status {
+            margin: 20px 0;
+            font-size: 2em; /* Increase font size for better readability */
+        }
+
+        button {
+            padding: 10px 20px;
+            margin: 5px;
+            background: hsl(0 0% 60% / 0.18);
+            border: none;
+            border-radius: var(--radius-5);
+            color: var(--gray-0);
+            font-size: var(--font-size-1);
+            font-weight: var(--font-weight-0);
+            cursor: pointer;
+            transition: color 0.2s, background 0.2s;
+        }
+
+        button:hover {
+            background: var(--gray-0);
+            color: var(--gray-12);
+        }
+
+        .drawer {
+            position: fixed;
+            bottom: -300px; /* Start hidden below the view */
+            left: 0;
+            right: 0;
+            height: 300px;
+            background: var(--gray-0);
+            color: var(--gray-12);
+            transition: bottom 0.3s ease-in-out;
+            padding: 20px;
+            overflow-y: auto;
+            border-radius: 10px;
+        }
+
+        .drawer.open {
+            bottom: 0; /* Slide up into view */
+        }
+
+        .drawer .log-entry {
+            background: var(--gray-1);
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: var(--radius-2);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        #about_us_content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            font-size: 1.5em; /* Adjust font size for readability */
+            position: fixed;
+            bottom: -300px; /* Start hidden below the view */
+            left: 0;
+            right: 0;
+            height: 300px;
+            background: var(--gray-0);
+            color: var(--gray-12);
+            transition: bottom 0.3s ease-in-out;
+            padding: 20px;
+            overflow-y: auto;
+            border-radius: 10px;
+        }
+
+        #about_us_content.open {
+            bottom: 0; /* Slide up into view */
+        }
+
+        #fix_now_notification {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: grey;
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            display: none; /* Initially hidden */
+            cursor: pointer;
+            font-size: 2em; /* Larger font size */
+            text-align: center;
+            width: 80%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="action-bar">
+        <div class="left">
+            <div class="buttons" id="buttons-container-left">
+                <a href="#" onclick="toggleFixLog(event)">Fix Log</a>
+            </div>
+        </div>
+        <div class="middle">
+            Current Time: <span id="current_time">{{ current_time }}</span>
+        </div>
+        <div class="right">
+            <div class="buttons" id="buttons-container-right">
+                <a href="#" onclick="toggleAboutUs(event)">About Us</a>
+            </div>
+        </div>
+    </div>
+    <div class="main-content">
+        <div class="status">Detected Waste Type: <span id="detected_waste_type">No waste detected</span></div>
+        <div class="status">Warning Status: <span id="warning_status"></span></div>
+        <div id="motor-status"></div>
+        <button onclick="toggleMotor()">Toggle Motor</button>
+    </div>
+    <div id="fix_log" class="drawer">
+        <div id="fix_log_content"></div>
+    </div>
+    <div id="about_us_content" class="drawer"></div>
+
+    <div id="fix_now_notification">Warning<br><span id="notification_message"></span><br><button onclick="fixNow()">Fix Now</button></div>
+
+    <script>
+        function toggleMotor() {
+            const action = motorActive ? 'off' : 'on'; // Toggle motor state
+            fetch(`/activate_motor?action=${action}`, { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    motorActive = data.motor_active; // Update motor state from server response
+                    updateMotorStatus(); // Update UI with motor status
+                })
+                .catch(error => console.error('Error toggling motor:', error));
+        }
+
+        function updateMotorStatus() {
+            const statusElement = document.getElementById('motor-status');
+            statusElement.textContent = motorActive ? 'Motor is active' : 'Motor is inactive';
+        }
+
+        function fetchMotorLogs() {
+            fetch('/motor_logs')
+                .then(response => response.json())
+                .then(data => {
+                    const logs = data.motor_logs;
+                    const logContent = document.getElementById('fix_log_content');
+                    logContent.innerHTML = logs.map(log => `<div class="log-entry">${log}</div>`).join('');
+                })
+                .catch(error => console.error('Error fetching motor logs:', error));
+        }
+
+        function toggleFixLog(event) {
+            event.preventDefault();
+            const fixLogDrawer = document.getElementById('fix_log');
+            fixLogDrawer.classList.toggle('open');
+            if (fixLogDrawer.classList.contains('open')) {
+                fetch('/fix_log')
+                    .then(response => response.json())
+                    .then(data => {
+                        const logContent = document.getElementById('fix_log_content');
+                        logContent.innerHTML = data.fix_log.map(log => `<div class="log-entry">${log}</div>`).join('');
+                    })
+                    .catch(error => console.error('Error fetching fix logs:', error));
+            }
+        }
+
+        function toggleAboutUs(event) {
+            event.preventDefault();
+            const aboutUsDrawer = document.getElementById('about_us_content');
+            aboutUsDrawer.classList.toggle('open');
+            if (aboutUsDrawer.classList.contains('open')) {
+                fetch('/about_us')
+                    .then(response => response.json())
+                    .then(data => {
+                        aboutUsDrawer.textContent = data.about_us;
+                    })
+                    .catch(error => console.error('Error fetching about us:', error));
+            }
+        }
+
+        function updateNotification() {
+            const notification = document.getElementById('fix_now_notification');
+            const warningStatus = document.getElementById('warning_status').textContent;
+            const notificationMessage = document.getElementById('notification_message');
+            if (warningStatus.includes('Sensor malfunction detected!')) {
+                notificationMessage.textContent = "Sensor Malfunction";
+                notification.style.display = 'block';
+            } else if (warningStatus.includes('System is not detecting any waste')) {
+                notificationMessage.textContent = "System Not Detecting Any Waste";
+                notification.style.display = 'block';
+            } else {
+                notification.style.display = 'none';
+            }
+        }
+
+        function fixNow() {
+            const notification = document.getElementById('fix_now_notification');
+            notification.style.display = 'none';
+            fetch('/fix_log')
+                .then(response => response.json())
+                .then(data => {
+                    const logContent = document.getElementById('fix_log_content');
+                    logContent.innerHTML = data.fix_log.map(log => `<div class="log-entry">${log}</div>`).join('');
+                })
+                .catch(error => console.error('Error fetching fix logs:', error));
+            const fixLogDrawer = document.getElementById('fix_log');
+            fixLogDrawer.classList.add('open'); // Open the fix log drawer
+        }
+
+        setInterval(() => {
+            fetch('/update_waste_status')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('detected_waste_type').textContent = data.waste_status;
+                    document.getElementById('warning_status').textContent = data.warning_status;
+                    updateNotification();
+                })
+                .catch(error => console.error('Error updating waste status:', error));
+        }, 1000);
+        
+        let motorActive = {{ motor_active|tojson }};
+        updateMotorStatus();
+
+        document.getElementById('fix_now_notification').addEventListener('click', () => {
+            document.getElementById('fix_now_notification').style.display = 'none';
+        });
+    </script>
+</body>
+</html>
